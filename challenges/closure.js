@@ -17,7 +17,7 @@ function myFunction() {
 myFunction();
 
 // Explanation: 
-
+// The nested function can access the variable internal because they are both inside the function scope of myFunction.
 
 /* Task 2: Counter */
 
